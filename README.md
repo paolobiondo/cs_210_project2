@@ -1,1 +1,1 @@
-# cs_210_project2
+# Deques and Randomized Queues | CS 210 Umass Boston
